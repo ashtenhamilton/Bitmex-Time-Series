@@ -1,0 +1,1 @@
+CREATE INDEX timeseries_index ON timeseries (symbol, interval, ts asc);
